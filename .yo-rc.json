@@ -1,0 +1,38 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "cruz.maldonado.financtrl",
+            "nativeLanguage": "pt-br"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "ControleFinanceiro",
+        "packageName": "cruz.maldonado.financtrl",
+        "packageFolder": "cruz/maldonado/financtrl",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": false,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "oracle",
+        "searchEngine": "elasticsearch",
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "gradle",
+        "enableSwaggerCodegen": true,
+        "jwtSecretKey": "ZGNmZjJjZWM1ZTkxNTM0NWJlZGNjNjAxZDNkYWE2ZTM2YTk1MDllNzIzZTNhNDg1ZWJlYWUwOTNlY2FiOWMyYTQ0ZDM2OWZhYzgwYzU3NTBmN2ZhNTA4OGFjOWFiNzhlNTExNzc3NTI1MmYzZTc0OGE0N2QyMTk0NzY1YTRhYjY=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": ["gatling", "cucumber", "protractor"],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "pt-br",
+        "languages": ["pt-br", "en"]
+    }
+}
